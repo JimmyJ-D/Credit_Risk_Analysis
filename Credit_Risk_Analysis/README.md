@@ -8,23 +8,23 @@ All data was cleaned and target column values were converted to "low_risk" and "
 
 We will apply six different models for the Lending-Club Credit Risk simulation. 
 
-Naive Random Oversampling vs SMOTE
-Undersampling using Cluster Centroids algorithm
-Combination of (Over and Under) Sampling using the SMOTEENN algorithm
-Balanced Random Forest Classifying
-Easy Ensemble Classifying
+1. Naive Random Oversampling vs SMOTE
+2. Undersampling using Cluster Centroids algorithm
+3. Combination of (Over and Under) Sampling using the SMOTEENN algorithm
+4. Balanced Random Forest Classifying
+5. Easy Ensemble Classifying
 
-![Split-Datagram]()
+![Split-Datagram](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/datagram.png)
 
 ## Naive Random Oversampling
 
-# Accuracy Score - 64.9%
-# Precision High Risk - 1%
-# Precision Low Risk - 100%
-# Recall High Risk - 63%
-# Recall Low Risk - 67%
-![Random-Over-Sample-Accuracy-Score]()
-![Random-Over-Sample]()
+- Accuracy Score - 64.9%
+- Precision High Risk - 1%
+- Precision Low Risk - 100%
+- Recall High Risk - 63%
+- Recall Low Risk - 67%
+![Random-Over-Sample-Accuracy-Score](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/Random-Over-Sample-Accuracy-Score.png)
+![Random-Over-Sample](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/Random%20Over%20Sample.png)
 
 ## SMOTE Oversampling
 
