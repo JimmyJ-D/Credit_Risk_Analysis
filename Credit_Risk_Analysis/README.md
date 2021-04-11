@@ -28,53 +28,53 @@ We will apply six different models for the Lending-Club Credit Risk simulation.
 
 ## SMOTE Oversampling
 
-# Accuracy Score - 60.7%
-# Precision High Risk - 1%
-# Precision Low Risk - 100%
-# Recall High Risk - 55%
-# Recall Low Risk - 66%
-![SMOTE-Over-Sampling-Accuracy-Score]()
-![SMOTE-Over-Sampling]()
+- Accuracy Score - 60.7%
+- Precision High Risk - 1%
+- Precision Low Risk - 100%
+- Recall High Risk - 55%
+- Recall Low Risk - 66%
+![SMOTE-Over-Sampling-Accuracy-Score](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/SMOTEENN-Accuracy-Score.png)
+![SMOTE-Over-Sampling](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/SMOTEENN-Sampling.png)
 
 ## Cluster Centriods Undersampling
 
-# Accuracy Score - 54.4%
-# Precision High Risk - 1%
-# Precision Low Risk - 100%
-# Recall High Risk - 55%
-# Recall Low Risk - 71%
-![SMOTE-Over-Sampling-Accuracy-Score]()
-![SMOTE-Over-Sampling]()
+- Accuracy Score - 54.4%
+- Precision High Risk - 1%
+- Precision Low Risk - 100%
+- Recall High Risk - 55%
+- Recall Low Risk - 71%
+![SMOTE-Over-Sampling-Accuracy-Score](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/SMOTE-Over-Sampling-Accuracy-Score.png)
+![SMOTE-Over-Sampling](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/SMOTE-Over-Sampling.png)
 
 ## Combination (Over and Under) Sampling SMOTEENN
 
-# Accuracy Score - 62.5%
-# Precision High Risk - 1%
-# Precision Low Risk - 100%
-# Recall High Risk - 71%
-# Recall Low Risk - 54%
-![SMOTEENN-Accuracy-Score]()
-![SMOTEENN-Sampling]()
+- Accuracy Score - 62.5%
+- Precision High Risk - 1%
+- Precision Low Risk - 100%
+- Recall High Risk - 71%
+- Recall Low Risk - 54%
+![SMOTEENN-Accuracy-Score](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/SMOTEENN-Accuracy-Score.png)
+![SMOTEENN-Sampling](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/SMOTEENN-Sampling.png)
 
 ## Balanced Random Forest Classifier
 
-# Accuracy Score - 78.7%
-# Precision High Risk - 4%
-# Precision Low Risk - 100%
-# Recall High Risk - 67%
-# Recall Low Risk - 91%
-![Balanced-Random-Forest-Classifier-Accuracy-Score]()
-![Balanced-Random-Forest-Classifier]()
+- Accuracy Score - 78.7%
+- Precision High Risk - 4%
+- Precision Low Risk - 100%
+- Recall High Risk - 67%
+- Recall Low Risk - 91%
+![Balanced-Random-Forest-Classifier-Accuracy-Score](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/Balanced-Random-Forest-Classifier-Accuracy-Score.png)
+![Balanced-Random-Forest-Classifier](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/Balanced-Random-Forest-Classifier.png)
 
 ## Easy Ensemble AdaBoost Classifier
 
-# Accuracy Score - 92.5%
-# Precision High Risk - 7%
-# Precision Low Risk - 100%
-# Recall High Risk - 91%
-# Recall Low Risk - 94%
-![Easy-Ensemble-AdaBoost-Classifier-Accuracy-Score]()
-![Easy-Ensemble-AdaBoost-Classifier]()
+- Accuracy Score - 92.5%
+- Precision High Risk - 7%
+- Precision Low Risk - 100%
+- Recall High Risk - 91%
+- Recall Low Risk - 94%
+![Easy-Ensemble-AdaBoost-Classifier-Accuracy-Score](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/Easy-Ensemble-AdaBoost-Classifier-Accuracy-Score.png)
+![Easy-Ensemble-AdaBoost-Classifier](https://github.com/JimmyJ-D/Credit_Risk_Analysis/blob/main/Credit_Risk_Analysis/Resources/Easy-Ensemble-AdaBoost-Classifier.png)
 
 
 ## Summary
